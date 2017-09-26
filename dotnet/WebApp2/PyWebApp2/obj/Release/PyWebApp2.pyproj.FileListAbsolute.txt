@@ -1,0 +1,1 @@
+\\mac\Box Sync-1\Projects\Web\dotnet\WebApp2\PyWebApp2\obj\Release\PyWebApp2.pyproj.CoreCompileInputs.cache

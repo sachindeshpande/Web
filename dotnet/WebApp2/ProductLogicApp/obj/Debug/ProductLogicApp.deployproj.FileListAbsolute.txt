@@ -1,0 +1,1 @@
+\\Mac\Box Sync-1\Projects\Web\dotnet\WebApp2\ProductLogicApp\obj\Debug\ProductLogicApp.deployproj.CoreCompileInputs.cache

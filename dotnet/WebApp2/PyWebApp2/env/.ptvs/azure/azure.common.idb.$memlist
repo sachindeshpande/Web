@@ -1,0 +1,10 @@
+__author__
+AzureHttpError
+exceptions
+cloud
+credentials
+AzureConflictHttpError
+client_factory
+AzureException
+AzureMissingResourceHttpError
+__version__

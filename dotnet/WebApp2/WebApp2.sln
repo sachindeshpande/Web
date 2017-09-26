@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp3", "WebApp3\WebApp3.csproj", "{FAD36FBF-6AA9-40FC-BBE6-DE3D811062F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProdDisWebApp", "ProdDisWebApp\ProdDisWebApp.csproj", "{C9B128B0-1653-419E-A054-C35C62EF0930}"
+EndProject
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "ProductLogicApp", "ProductLogicApp\ProductLogicApp.deployproj", "{B6BE469A-0261-4066-8696-CA48E4278003}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProdDisWebAppSwag", "ProdDisWebAppSwag\ProdDisWebAppSwag.csproj", "{2E4EDCE8-C0EC-4771-A46A-9B1358783E55}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PyWebApp1", "PyWebApp1\PyWebApp1.pyproj", "{D96FEF64-1EFE-41E4-9579-686078B2B3FB}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PyWebApp2", "PyWebApp2\PyWebApp2.pyproj", "{7636E2D2-C989-492C-BC88-BFA03183655C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAD36FBF-6AA9-40FC-BBE6-DE3D811062F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD36FBF-6AA9-40FC-BBE6-DE3D811062F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD36FBF-6AA9-40FC-BBE6-DE3D811062F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD36FBF-6AA9-40FC-BBE6-DE3D811062F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B128B0-1653-419E-A054-C35C62EF0930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B128B0-1653-419E-A054-C35C62EF0930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B128B0-1653-419E-A054-C35C62EF0930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B128B0-1653-419E-A054-C35C62EF0930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6BE469A-0261-4066-8696-CA48E4278003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6BE469A-0261-4066-8696-CA48E4278003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6BE469A-0261-4066-8696-CA48E4278003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6BE469A-0261-4066-8696-CA48E4278003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E4EDCE8-C0EC-4771-A46A-9B1358783E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E4EDCE8-C0EC-4771-A46A-9B1358783E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E4EDCE8-C0EC-4771-A46A-9B1358783E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E4EDCE8-C0EC-4771-A46A-9B1358783E55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D96FEF64-1EFE-41E4-9579-686078B2B3FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96FEF64-1EFE-41E4-9579-686078B2B3FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96FEF64-1EFE-41E4-9579-686078B2B3FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96FEF64-1EFE-41E4-9579-686078B2B3FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7636E2D2-C989-492C-BC88-BFA03183655C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7636E2D2-C989-492C-BC88-BFA03183655C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7636E2D2-C989-492C-BC88-BFA03183655C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7636E2D2-C989-492C-BC88-BFA03183655C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6994F23B-0A1F-43FA-A495-F634F944EE06}
+	EndGlobalSection
+EndGlobal

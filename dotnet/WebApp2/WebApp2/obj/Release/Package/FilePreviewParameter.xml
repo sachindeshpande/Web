@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="WebApp310" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^\\\\Mac\\Box\ Sync-1\\Projects\\Web\\dotnet\\WebApp2\\WebApp2\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^\\\\Mac\\Box\ Sync-1\\Projects\\Web\\dotnet\\WebApp2\\WebApp2\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

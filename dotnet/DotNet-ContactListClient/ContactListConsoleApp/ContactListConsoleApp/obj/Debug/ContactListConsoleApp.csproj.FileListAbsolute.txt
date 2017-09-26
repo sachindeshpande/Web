@@ -1,0 +1,21 @@
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactListClient\ContactListConsoleApp\ContactListConsoleApp\bin\Debug\ContactListConsoleApp.exe.config
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactListClient\ContactListConsoleApp\ContactListConsoleApp\bin\Debug\ContactListConsoleApp.exe
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactListClient\ContactListConsoleApp\ContactListConsoleApp\bin\Debug\ContactListConsoleApp.pdb
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactListClient\ContactListConsoleApp\ContactListConsoleApp\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactListClient\ContactListConsoleApp\ContactListConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactListClient\ContactListConsoleApp\ContactListConsoleApp\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactListClient\ContactListConsoleApp\ContactListConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactListClient\ContactListConsoleApp\ContactListConsoleApp\obj\Debug\ContactListConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactListClient\ContactListConsoleApp\ContactListConsoleApp\obj\Debug\ContactListConsoleApp.exe
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactListClient\ContactListConsoleApp\ContactListConsoleApp\obj\Debug\ContactListConsoleApp.pdb
+\\Mac\Box Sync-1\Projects\Web\dotnet\DotNet-ContactListClient\ContactListConsoleApp\ContactListConsoleApp\bin\Debug\ContactListConsoleApp.exe.config
+\\Mac\Box Sync-1\Projects\Web\dotnet\DotNet-ContactListClient\ContactListConsoleApp\ContactListConsoleApp\bin\Debug\ContactListConsoleApp.exe
+\\Mac\Box Sync-1\Projects\Web\dotnet\DotNet-ContactListClient\ContactListConsoleApp\ContactListConsoleApp\bin\Debug\ContactListConsoleApp.pdb
+\\Mac\Box Sync-1\Projects\Web\dotnet\DotNet-ContactListClient\ContactListConsoleApp\ContactListConsoleApp\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+\\Mac\Box Sync-1\Projects\Web\dotnet\DotNet-ContactListClient\ContactListConsoleApp\ContactListConsoleApp\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Box Sync-1\Projects\Web\dotnet\DotNet-ContactListClient\ContactListConsoleApp\ContactListConsoleApp\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+\\Mac\Box Sync-1\Projects\Web\dotnet\DotNet-ContactListClient\ContactListConsoleApp\ContactListConsoleApp\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Box Sync-1\Projects\Web\dotnet\DotNet-ContactListClient\ContactListConsoleApp\ContactListConsoleApp\obj\Debug\ContactListConsoleApp.csprojResolveAssemblyReference.cache
+\\Mac\Box Sync-1\Projects\Web\dotnet\DotNet-ContactListClient\ContactListConsoleApp\ContactListConsoleApp\obj\Debug\ContactListConsoleApp.csproj.CoreCompileInputs.cache
+\\Mac\Box Sync-1\Projects\Web\dotnet\DotNet-ContactListClient\ContactListConsoleApp\ContactListConsoleApp\obj\Debug\ContactListConsoleApp.exe
+\\Mac\Box Sync-1\Projects\Web\dotnet\DotNet-ContactListClient\ContactListConsoleApp\ContactListConsoleApp\obj\Debug\ContactListConsoleApp.pdb
