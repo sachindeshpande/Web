@@ -1,0 +1,6 @@
+echo '{"foo": "bar"}' | http PUT https://zr9e0y4rgl.execute-api.us-east-1.amazonaws.com/api/objects/obj1
+
+arn:aws:s3:::sactmo-testbuck
+
+
+aws s3api put-object --bucket sactmo-testbuck --key "test" --body "test.rtf"

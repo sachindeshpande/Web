@@ -1,0 +1,12 @@
+{
+  "dev": {
+    "region": "us-east-1",
+    "api_handler_name": "pylambda1-dev",
+    "api_handler_arn": "arn:aws:lambda:us-east-1:258317088977:function:pylambda1-dev",
+    "rest_api_id": "np5z95sw13",
+    "lambda_functions": {},
+    "chalice_version": "1.0.3",
+    "api_gateway_stage": "api",
+    "backend": "api"
+  }
+}
