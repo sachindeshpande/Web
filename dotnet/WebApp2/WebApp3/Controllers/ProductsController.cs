@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Web.Http;
+using System.Web.Http.Description;
 
 namespace WebApp3.Controllers
 {
@@ -30,5 +31,17 @@ namespace WebApp3.Controllers
             }
             return Ok(product);
         }
+
+        [ResponseType(typeof(Product[]))]
+        public IHttpActionResult PostProduct(Product[] products)
+        {
+            foreach (var prod in products)
+            {
+                prod.Price = prod.Price * (decimal)0.8;
+            }
+
+            return CreatedAtRoute("DefaultApi", new { id = 0 }, products);
+        }
+
     }
 }
